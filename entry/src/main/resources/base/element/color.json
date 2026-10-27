@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "nm_bg",
+      "value": "#000000"
+    },
+    {
+      "name": "nm_card",
+      "value": "#1A1A1A"
+    },
+    {
+      "name": "nm_panel",
+      "value": "#232323"
+    },
+    {
+      "name": "nm_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "nm_sub",
+      "value": "#9C9C9C"
+    },
+    {
+      "name": "nm_accent",
+      "value": "#E93B3B"
+    },
+    {
+      "name": "nm_divider",
+      "value": "#2A2A2A"
+    }
+  ]
+}

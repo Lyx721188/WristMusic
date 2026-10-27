@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "腕上音乐手表客户端模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "腕上音乐 · 第三方网易云音乐手表客户端"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "腕上音乐"
+    }
+  ]
+}
